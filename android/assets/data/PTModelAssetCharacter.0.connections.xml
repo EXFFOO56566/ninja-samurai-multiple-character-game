@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>142</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>144</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>354</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>244</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>464</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4879</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4880</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5072</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7276</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7278</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7401</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7485</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7589</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>8651</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4880</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5072</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7639</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7641</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7715</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7799</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7903</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>8652</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4880</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5072</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7929</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>7931</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8005</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8089</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8193</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>8651</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4880</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5072</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8219</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8221</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8379</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8305</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8483</string>
+                </dict>
+                <key>Jump Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>8651</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4880</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5072</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

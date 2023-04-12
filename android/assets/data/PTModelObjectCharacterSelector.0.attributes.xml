@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>7145</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Selector</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{600.903,62.494}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>4</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7149</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Selector</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{588.885,81.723}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>4</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7151</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Unlock !</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{436.904,141.739}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.385,1.203}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Visibility</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Vertical Spacing</key>
+                <dict>
+                    <key>value</key>
+                    <string>140.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>4</string>
+                </dict>
+                <key>zDepth</key>
+                <string>14</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
